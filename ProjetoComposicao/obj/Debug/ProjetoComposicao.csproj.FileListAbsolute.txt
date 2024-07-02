@@ -1,0 +1,7 @@
+C:\Users\Alan Rodrigues Primo\source\repos\ProjetoComposicao\ProjetoComposicao\bin\Debug\ProjetoComposicao.exe.config
+C:\Users\Alan Rodrigues Primo\source\repos\ProjetoComposicao\ProjetoComposicao\bin\Debug\ProjetoComposicao.exe
+C:\Users\Alan Rodrigues Primo\source\repos\ProjetoComposicao\ProjetoComposicao\bin\Debug\ProjetoComposicao.pdb
+C:\Users\Alan Rodrigues Primo\source\repos\ProjetoComposicao\ProjetoComposicao\obj\Debug\ProjetoComposicao.csproj.AssemblyReference.cache
+C:\Users\Alan Rodrigues Primo\source\repos\ProjetoComposicao\ProjetoComposicao\obj\Debug\ProjetoComposicao.csproj.CoreCompileInputs.cache
+C:\Users\Alan Rodrigues Primo\source\repos\ProjetoComposicao\ProjetoComposicao\obj\Debug\ProjetoComposicao.exe
+C:\Users\Alan Rodrigues Primo\source\repos\ProjetoComposicao\ProjetoComposicao\obj\Debug\ProjetoComposicao.pdb
